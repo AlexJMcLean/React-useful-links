@@ -3,12 +3,23 @@
 ## Table of Contents <!-- omit from toc -->
 
 - [Getting Started](#getting-started)
+- [Basic Concepts](#basic-concepts)
+- [Intermediate Concepts](#intermediate-concepts)
+- [Advanced Concepts](#advanced-concepts)
 - [Resources](#resources)
 
 ## Getting Started
 
-- [Basic Concepts and overviews](./basic-concepts.md)
+- [Basic Overviews](./basic-overviews.md)
 - [Updates to Javascript](./updates-to-JS.md)
+
+## Basic Concepts
+
+- [Basic Features](./basic-features.md)
+
+## Intermediate Concepts
+
+## Advanced Concepts
 
 ## Resources
 
