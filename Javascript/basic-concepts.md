@@ -27,6 +27,26 @@
   https://dev.to/kayis/the-tools-of-the-js-trade
   A overview of commonly used JS development terms grouped by type with a short desription for each.
 
+## NPM
+
+NPM or Node Package Manager is a tool that we use to install and manage packages in a usefull way.
+
+- **A beginners guide to NPM**
+  https://www.sitepoint.com/npm-guide/
+  Good overview of the major NPM commands for package management
+
+- **How to use NUM to manage Node Packages**
+  https://www.digitalocean.com/community/tutorials/how-to-use-npm-to-manage-node-js-packages-on-a-linux-server
+  Focused on Linux, but the commands should mostly be cross-platform.
+
+## Node JS
+
+Node JS allows us to create server applications using Javascript
+
 - **What exactly is NodeJS?**
   https://www.freecodecamp.org/news/what-is-node-js/
-  Node Js allows you to create both front and back end applications with JS, this gives a overview of what exacly is NodeJS.
+  This gives a overview of what exacly is NodeJS.
+
+- **Microsoft's Node.js Guidelines**
+  https://github.com/Microsoft/nodejs-guidelines
+  A great resource for setting up and working with Node on Windows, including solutions for common issues.
